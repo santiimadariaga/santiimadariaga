@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 <br>
 
-- I´m coursing a coding bootcamp in NUCBA, of developer web full stack 📚💻
-- I consider myself a person self-taught and hyperactive 😁
-- I aspire to be able to get a job as a developer at the end of the course 💪
+- I successfully completed a coding bootcamp at NUCBA, as a full stack web developer 📚💻
+- I consider myself a self-taught and hyperactive person 😁
+- Aspiring to get a job as a developer 💪
 
 - 👨‍💻 All of my projects are available at [https://github.com/santiimadariaga?tab=repositories](https://github.com/santiimadariaga?tab=repositories)
 
